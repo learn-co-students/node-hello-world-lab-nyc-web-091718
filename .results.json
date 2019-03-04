@@ -1,0 +1,42 @@
+{
+  "tests": [
+    {
+      "title": "must match Hello World",
+      "fullTitle": "hello-world method in hello-world.js must match Hello World",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "stack": "TypeError: Cannot read property 'passes' of undefined\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:165:14)\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.runner.on (node_modules/mocha-multi/mocha-multi.js:164:7)",
+        "message": "Cannot read property 'passes' of undefined",
+        "uncaught": true
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "must match Hello World",
+      "fullTitle": "hello-world method in hello-world.js must match Hello World",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "stack": "TypeError: Cannot read property 'passes' of undefined\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:165:14)\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.runner.on (node_modules/mocha-multi/mocha-multi.js:164:7)",
+        "message": "Cannot read property 'passes' of undefined",
+        "uncaught": true
+      }
+    }
+  ],
+  "passes": [
+    {
+      "title": "must match Hello World",
+      "fullTitle": "hello-world method in hello-world.js must match Hello World",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "stack": "TypeError: Cannot read property 'passes' of undefined\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:165:14)\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.runner.on (node_modules/mocha-multi/mocha-multi.js:164:7)",
+        "message": "Cannot read property 'passes' of undefined",
+        "uncaught": true
+      }
+    }
+  ]
+}
